@@ -5,49 +5,6 @@
 - 公益调试 Eureka：http://eureka.didispace.com
 - 公益调试 Nacos：http://blog.didispace.com/open-nacos-server-1-0-0/
 
-## 特别赞助商
-
-<table>
-      <tbody>
-        <tr>
-          <td align="center" valign="middle">
-             <a href="https://start.aliyun.com/" target="_blank">
-               <img width="300" src="http://img.didispace.com/FlCL2IV4kAY92Ko9-MCUM_hVaiDf">
-             </a>
-          </td>
-          <td align="center" valign="middle">
-            <a href="https://coding.net/pricing?utm_source=cangkudidi&utm_medium=banner&utm_campaign=newprice" target="_blank">
-              <img width="300" src="http://img.didispace.com/FnldWfhU6pcUrNeg2zAcsc9lQodq">
-            </a>
-          </td>  
-          <td align="center" valign="middle">
-             <a href="https://openwrite.cn/?from=didi-springcloud" target="_blank">
-               <img width="300" src="http://img.didispace.com/Fq6H6vSRJugF3cLxFNc29D9WVwFA">
-             </a>
-          </td>          
-        </tr>
-        <tr>
-          <td align="center" valign="middle">
-            <a href="http://gk.link/a/103EK" target="_blank">
-              <img width="300" src="http://img.didispace.com/FraIu771RXtYnQ3o5croL31PVzUB">
-            </a>
-          </td> 
-          <td align="center" valign="middle">
-            <a href="https://www.aliyun.com/minisite/goods?userCode=wxfqkr0o&share_source=copy_link" target="_blank">
-              <img width="300" src="https://tva1.sinaimg.cn/large/006tNbRwgy1g9utcfi2hxj308c02i755.jpg">
-            </a>
-          </td>  
-          <td align="center" valign="middle">
-            <a href="https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console" target="_blank">
-              <img width="300" src="http://img.didispace.com/FlcCuj0c-JhViRzr1wrynE941T9b">
-            </a>
-          </td> 
-        </tr>
-      </tbody>
-</table>
-
-> 如果您也想赞助支持并出现在上表中的话，可以通过邮件联系我：`didi@didispace.com`
-
 ## 教程列表
 
 ### 《Spring Cloud构建微服务架构》系列博文
@@ -177,14 +134,6 @@
 - [Netflix Zuul与Nginx的性能对比](http://blog.didispace.com/zuul-vs-nginx-performance/)
 - [基于Consul的分布式锁实现](http://blog.didispace.com/spring-cloud-consul-lock-and-semphore/)
 - [基于Consul的分布式信号量实现](http://blog.didispace.com/spring-cloud-consul-lock-and-semphore-2/)
-
-## 我的公众号
-
-![](http://git.oschina.net/uploads/images/2017/0105/082137_85109d07_437188.jpeg "在这里输入图片标题")
-
-## 推荐我的书
-
-![](https://git.oschina.net/uploads/images/2017/0416/233656_dd3bce94_437188.png "在这里输入图片标题")
 
 ## 其他推荐
 
